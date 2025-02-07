@@ -1,0 +1,22 @@
+@import url('https://fonts.cdnfonts.com/css/georgia-pro-cond');
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+@import url('https://fonts.cdnfonts.com/css/proxima-nova-condensed');
+@import url('https://fonts.cdnfonts.com/css/lora');
+@import url('https://fonts.cdnfonts.com/css/baskerville');
+
+h1{
+        text-shadow: 0px 0px 50px #ffffff;
+        letter-spacing: 4.5px;
+}
+h2{
+        text-decoration: underline;
+        text-underline-offset: 8px;
+        text-decoration-thickness: 5px;
+        text-decoration-color: #5aa7d5;
+        font-family: 'georgia pro cond', 'lora', 'Baskerville';
+        letter-spacing: 3px;
+}
+body{
+  font-family: 'Poppins', 'Avenir', 'Tahoma', sans-serif;
+}
+mystyle.css
